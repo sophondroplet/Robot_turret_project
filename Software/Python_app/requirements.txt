@@ -1,0 +1,5 @@
+pyqt6
+opencv-python
+pyserial
+mouse
+numpy
